@@ -1,0 +1,18 @@
+.uk-table th, table, .uk-table td{
+	border: 1px solid #e5e5e5;
+}
+.uk-link, a{
+	display: block !important;
+}
+a: hover{
+	text-decoration: none !important;
+}
+td{
+	white-space: nowrap;
+}
+span{
+	white-space: nowrap;
+}
+.uk-card{
+	overflow: scroll;
+}
